@@ -26,7 +26,6 @@ class ListCharacterAdapter(val listCharacter: ArrayList<Character>) : RecyclerVi
 
     override fun onBindViewHolder(holder: ListViewHolder, position: Int) {
         val (name, description, photo) = listCharacter[position]
-//        holder.imgPhoto.setImageResource(photo)
         Glide.with(holder.itemView.context)
             .load(photo)
             .into(holder.imgPhoto)

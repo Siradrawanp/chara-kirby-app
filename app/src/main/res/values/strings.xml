@@ -34,17 +34,17 @@
     </string-array>
 
     <string-array name="character_photo">
-        <item>@drawable/kirby</item>
-        <item>@drawable/meta_knight</item>
-        <item>@drawable/magolor</item>
-        <item>@drawable/marx</item>
-        <item>@drawable/king_dedede</item>
-        <item>@drawable/waddle_dee</item>
-        <item>@drawable/adeleine</item>
-        <item>@drawable/bandana_waddle_dee</item>
-        <item>@drawable/waddle_doo</item>
-        <item>@drawable/taranza</item>
-        <item>@drawable/acore</item>
-        <item>@drawable/axe_knight</item>
+        <item>https://static.wikia.nocookie.net/kirby/images/c/c6/Kirby_RtDDX.png/revision/latest?cb=20230726032205&amp;path-prefix=en</item>
+        <item>https://static.wikia.nocookie.net/kirby/images/8/8d/Meta_Knight_RtDDX.png/revision/latest?cb=20230726060719&amp;path-prefix=en</item>
+        <item>https://static.wikia.nocookie.net/kirby/images/4/49/Magolor_RtDDX.png/revision/latest?cb=20230127162707&amp;path-prefix=en</item>
+        <item>https://static.wikia.nocookie.net/kirby/images/e/e8/Marx_small_SSBU.png/revision/latest?cb=20181229003354&amp;path-prefix=en</item>
+        <item>https://static.wikia.nocookie.net/kirby/images/b/b9/King_Dedede_RtDDX.png/revision/latest?cb=20230726082658&amp;path-prefix=en</item>
+        <item>https://static.wikia.nocookie.net/kirby/images/6/67/KatFL_Waddle_Dee_artwork.png/revision/latest?cb=20220213193603&amp;path-prefix=en</item>
+        <item>https://static.wikia.nocookie.net/kirby/images/2/29/KSA_Adeleine.png/revision/latest?cb=20180706071347&amp;path-prefix=en</item>
+        <item>https://static.wikia.nocookie.net/kirby/images/d/d8/Bandana_Waddle_Dee_RtDDX.png/revision/latest?cb=20230726055033&amp;path-prefix=en</item>
+        <item>https://static.wikia.nocookie.net/kirby/images/8/80/KSA_Waddle_Doo_artwork.png/revision/latest?cb=20180403180203&amp;path-prefix=en</item>
+        <item>https://static.wikia.nocookie.net/kirby/images/0/06/KSA_Taranza_artwork_transparent.png/revision/latest?cb=20191016041702&amp;path-prefix=en</item>
+        <item>https://static.wikia.nocookie.net/kirby/images/e/e8/Acore.png/revision/latest?cb=20100214055149&amp;path-prefix=en</item>
+        <item>https://static.wikia.nocookie.net/kirby/images/c/ca/KSSU_Axe_Knight_Artwork.png/revision/latest?cb=20180226162854&amp;path-prefix=en</item>
     </string-array>
 </resources>
