@@ -1,1 +1,1 @@
-# chara-kirby-list
+# chara-kirby-app
