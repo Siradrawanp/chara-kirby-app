@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Kirby Character App</string>
+    <string name="character_name">Character Name</string>
+    <string name="character_description">Description</string>
+
+    <string-array name="character_list">
+        <item>Kirby</item>
+        <item>Meta Knight</item>
+        <item>Magolor</item>
+        <item>Marx</item>
+        <item>King Dedede</item>
+        <item>Waddle Dee</item>
+        <item>Adeleine</item>
+        <item>Bandana Waddle Dee</item>
+        <item>Waddle Doo</item>
+        <item>Taranza</item>
+        <item>Acore</item>
+        <item>Axe Knight</item>
+    </string-array>
+
+    <string-array name="character_description">
+        <item>Kirby is the titular pink puff and main character of Nintendo\'s game series \'Kirby\'. Kirby lives in his dome-shaped home in Dream Land, a country on his home planet called \'Planet Popstar\'. His adventures take him throughout Dreamland and occasionally into the local star system for various reasons mostly to save his homeland.</item>
+        <item>Meta Knight is a major character and swordsman from the Kirby series of video games. He is the leader of an army of soldiers known as the Meta-Knights, and captains a large airship called Battleship Halberd, which may accompany him into the heat of battle. Being a knight, he respects a code of chivalry, and almost always offers Kirby a sword whenever he fights against him. Nowadays, though, he is more cool and mysterious, acting as a friend-or-foe character to Kirby.</item>
+        <item>A friendly-looking alien who crash-landed on Planet Popstar with his ship, the Lor Starcutter. Kirby, King Dedede, Meta Knight and Bandana Waddle Dee volunteered to help him recover the parts that broke off the ship. Near the end of the game, he reveals himself to be the Big Bad of the story, having tricked the quartet into helping him. He reappears in Dream Collection: Special Edition where he builds an amusement park following a Heel–Face Turn as atonement for antagonizing Kirby, and later in Team Kirby Clash Deluxe where he becomes the owner of the Shoppe.</item>
+        <item>Marx is the final boss in Kirby Super Star (1996) and its remake Kirby Super Star Ultra (2008). He is a round, lavender creature, similar to Kirby, but having no arms, wearing a jester hat, a bow tie, and brown shoes. He is frequently seen bouncing on a ball.</item>
+        <item>He is the greedy self-proclaimed king of Dream Land, which is located on the quaint Planet Popstar. Due to an ambiguous description of the geography of Popstar, it is never made entirely clear how much of the planet King Dedede assumes leadership of, though he seems to have castles and fortresses all across the planet. Even so, he seems to perform no administrative functions, and for the most part, the planet seems to ignore any edicts that are issued by him.</item>
+        <item>Waddle Dees are species native to Planet Popstar. As some of the most common inhabitants of Dream Land they appear as both enemies and friendly NPCs. Many, but not all, Waddle Dees loyally serve King Dedede, the self-proclaimed ruler of Dream Land, and he often involves them in his schemes. As an enemy, they are both the most basic and most common regular enemy, and a staple of the Kirby series, with Waddle Dee or some variant thereof appearing in every game since the first ever Kirby title, Kirby\'s Dream Land.</item>
+        <item>Adeleine is a character in the Kirby series, making her official debut in Kirby 64: The Crystal Shards. She came to Planet Popstar to study art. Adeleine is a talented young artist that can paint pictures that come to life.</item>
+        <item>Bandana Waddle Dee, sometimes abbreviated as B.W. Dee or nicknamed Bandana Dee, otherwise known simply as Waddle Dee, is a character in the Kirby series, debuting in Kirby Super Star. He is a Waddle Dee who wears a blue bandana. He has gone from being an insignificant, minor character in his first appearances to being a prominent figure who has appeared in almost every Kirby game to date since Kirby Super Star Ultra.</item>
+        <item>Waddle Doo is a cyclops creature with stubby arms, and orange shoes. It has a giant eyeball for a face, from which it uses a beam to attack. If swallowed by Kirby in most Kirby games, Kirby is given the Beam ability. Waddle Doo first appeared in Kirby\'s Dream Land (1992), and has since then been consistent in his appearance in Kirby games. It attacks by trying to hit Kirby with a short-ranged beam. In Kirby 64: The Crystal Shards (2000), Waddle Doo only appeared as a version of Waddle Dee possessed by Dark Matter.</item>
+        <item>Taranza is a character in the Kirby series, debuting as the secondary antagonist of Kirby: Triple Deluxe, but would later become an ally. He is a spider-like magician and a former servant of Queen Sectonia.</item>
+        <item>Acore is the oldest tree in Whispy Woods Forest, and is around 800 years old. He is a close friend to Whispy Woods and has earned his respect and gratitude by housing many little woodland creatures in his roots and branches. The animals include Rick, Coo, Nruff, among many others. The animals he lends his body to have protected him for the many years that he has been alive. During a big storm, all of the animals (with the help of Tiff and Tuff) help anchor Acore down to the ground and stop him from being uprooted. Thanks to the efforts of them all, Acore survives the storm. Acore reveals that he was sound asleep during the whole thing, but still thanks them all for saving him.</item>
+        <item>Axe Knight is an enemy in the Kirby series, debuting in Kirby\'s Adventure. He serves as one the most common members of the Meta-Knights. He yields no Copy Ability when inhaled. He serves under Meta Knight, and plays a role as a crew member of the Halberd with in-game dialogue in the Revenge of Meta Knight sub-game.</item>
+    </string-array>
+
+    <string-array name="character_photo">
+        <item>@drawable/kirby</item>
+        <item>@drawable/meta_knight</item>
+        <item>@drawable/magolor</item>
+        <item>@drawable/marx</item>
+        <item>@drawable/king_dedede</item>
+        <item>@drawable/waddle_dee</item>
+        <item>@drawable/adeleine</item>
+        <item>@drawable/bandana_waddle_dee</item>
+        <item>@drawable/waddle_doo</item>
+        <item>@drawable/taranza</item>
+        <item>@drawable/acore</item>
+        <item>@drawable/axe_knight</item>
+    </string-array>
+</resources>
