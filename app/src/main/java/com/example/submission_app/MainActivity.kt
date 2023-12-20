@@ -1,5 +1,6 @@
 package com.example.submission_app
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
@@ -53,6 +54,10 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun showSelectedCharacter(character: Character) {
-        Toast.makeText(this, "You picked " + character.name, Toast.LENGTH_SHORT).show()
+        val intent = Intent(this@MainActivity, DetailPage::class.java)
+        intent.putExtra("character_name", character.name)
+        intent.putExtra("character_desc", character.description)
+        intent.putExtra("character_photo", character.photo)
+        startActivity(intent)
     }
 }
